@@ -1,0 +1,4 @@
+FROM- Sprecify the light weighted operating system
+ADD- add the target of the working directory
+CMD-  command for deploying the application
+EXPOSE- specify the port that will be used.
